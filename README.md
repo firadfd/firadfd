@@ -2,13 +2,12 @@
 
 Hi, I'm Firadfd! I'm a passionate developer working on various projects, exploring new technologies, and contributing to open-source. This is where I share my code and ideas to build innovative solutions.
 
-## 📊 GitHub Stats
 
-Here's a snapshot of my activity and contributions on GitHub:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile%20views&color=0e75b6&style=flat" alt="firadfd" />
+  <img src="https://img.shields.io/github/followers/firadfd?label=Follow&style=social" alt="firadfd" />
+</p>
 
-[![Firadfd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firadfd&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firadfd&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠️ Languages & Tools
 
@@ -20,28 +19,29 @@ I enjoy working with various technologies and constantly learning new ones. Whil
 
 * **Databases**: [MongoDB, Firebase Firestore]
 
-## 📈 Contribution Summary
 
-My overall contributions are reflected in the GitHub Stats above, including total commits and repositories. Here's a specific look at my recent activity:
+<h3 align="center">🌐 Connect with Me</h3>
 
-[![Commits Badge](https://img.shields.io/github/commit-activity/y/firadfd/firadfd?color=green&style=for-the-badge)](https://github.com/firadfd/firadfd/commits/main)
-
-*(The total commits, repositories, stars earned, and pull requests are aggregated in the "GitHub Stats" badge above.)*
-
-
-## 📬 Connect with Me
-
-Let's connect and collaborate!
-
-* **Email**: contact.firadfd@gmail.com
-
-* **LinkedIn**: https://www.linkedin.com/in/firad-fd/
+<p align="center">
+  <a href="https://github.com/firadfd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/firadfd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100056822454515"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/></a>
+  <a href="mailto:masukkabir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 
-## ⚡ Fun Fact
-
-[Add a fun fact, e.g., "I coded my first app while binge-watching sci-fi movies!"]
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firadfd&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firadfd&layout=compact&theme=radical" alt="Top Languages" width="225"/>
+  <img src="https://streak-stats.demolab.com/?user=firadfd&theme=radical" alt="GitHub Streak" width="310"/>
+</p>
 
 ---
 
-⭐️ If you like my work, consider starring my repos!
+<h3 align="center">🏆 Achievements</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
