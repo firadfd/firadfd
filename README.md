@@ -22,11 +22,10 @@ Hi, I'm Firadfd! I'm a passionate developer working on various projects, explori
 
 I enjoy working with various technologies and constantly learning new ones. While my top languages are shown above, here are some of the frameworks, tools, and databases I frequently use:
 
-* **Frameworks**: [Flutter, Django, Next.js, Flask]
+* **Frameworks**: [Flutter, Jetpack Compose, Kotlin Multiplatform]
 
 * **Tools**: [Git, VS Code, Android Studio, Postman]
 
-* **Databases**: [MongoDB, Firebase Firestore]
 
 
 <h3 align="center">🌐 Connect with Me</h3>
