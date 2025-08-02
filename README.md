@@ -1,7 +1,7 @@
 <!-- Header with animated gradient and 3D effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=500&height=80&lines=✨+Hello+World!+I'm+Firadfd;🚀+Flutter+%26+Android+Developer;🔥+Open-Source+Contributor;🎨+UI%2FUX+Enthusiast" alt="Animated Typing Header" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=435&lines= Building+for+Android%2C+iOS%2C+and+Web;Flutter+%7C+Kotlin+%7C+Firebase;Open-Source+Contributor" alt="Typing Animation" />
+</p>
 
 <!-- Rainbow divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -79,7 +79,3 @@
   <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
 </p>
 
-<!-- Snake animation eating contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/firadfd/firadfd/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
