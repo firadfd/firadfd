@@ -6,6 +6,12 @@
 <!-- Rainbow divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<!-- Visitor counter with snake animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
+</p>
+
 <!-- Profile cards with glow effect -->
 <div align="center">
   
@@ -54,11 +60,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
-<!-- Visitor counter with snake animation -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
-</p>
 
 <!-- Contact buttons with hover effects -->
 <h2 align="center">📫 Let's Connect</h2>
