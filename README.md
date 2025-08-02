@@ -1,45 +1,67 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hi, I'm Firadfd! 
 
-Hi, I'm Firadfd! I'm a passionate developer working on various projects, exploring new technologies, and contributing to open-source. This is where I share my code and ideas to build innovative solutions.
-
+### **Mobile & Cross-Platform Developer** | **Open-Source Enthusiast** | **Tech Explorer**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile%20views&color=0e75b6&style=flat" alt="firadfd" />
-  <img src="https://img.shields.io/github/followers/firadfd?label=Follow&style=social" alt="firadfd" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=435&lines=Building+for+Android%2C+iOS%2C+and+Web;Flutter+%7C+Kotlin+%7C+Firebase;Open-Source+Contributor" alt="Typing Animation" />
 </p>
 
+---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 📊 **GitHub Analytics**
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firadfd&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firadfd&layout=compact&theme=radical" alt="Top Languages" width="225"/>
-  <img src="https://streak-stats.demolab.com/?user=firadfd&theme=radical" alt="GitHub Streak" width="310"/>
-</p>
-
-
-
-## 🛠️ Languages & Tools
-
-I enjoy working with various technologies and constantly learning new ones. While my top languages are shown above, here are some of the frameworks, tools, and databases I frequently use:
-
-* **Frameworks**: [Flutter, Jetpack Compose, Kotlin Multiplatform]
-
-* **Tools**: [Git, VS Code, Android Studio, Postman]
-
-
-
-<h3 align="center">🌐 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://github.com/firadfd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firadfd&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6F10F7&icon_color=6F10F7" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=firadfd&theme=nightowl&hide_border=true&background=0D1117&stroke=6F10F7&ring=6F10F7&fire=6F10F7&currStreakLabel=6F10F7" alt="GitHub Streak"/>
   </a>
-  <a href="https://www.linkedin.com/in/firad-fd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/Firad.Fd/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="mailto:contact.firadfd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="center">🏆 Achievements</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firadfd&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=6F10F7" alt="Top Languages"/>
+</p>
+
+---
+
+### 🛠️ **Tech Stack**
+  
+#### **Languages & Frameworks**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+#### **Tools & Platforms**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+### 🏆 **GitHub Achievements**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=nord&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 🌐 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/firad-fd/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:contact.firadfd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/Firad.Fd/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile+Views&color=6F10F7&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=6F10F7" alt="GitHub Followers"/>
 </p>
