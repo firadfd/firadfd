@@ -3,7 +3,7 @@
 ### **Mobile & Cross-Platform Developer** | **Open-Source Enthusiast** | **Tech Explorer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=435&lines=Building+for+Android%2C+iOS%2C+and+Web;Flutter+%7C+Kotlin+%7C+Firebase;Open-Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=435&lines= Building+for+Android%2C+iOS%2C+and+Web;Flutter+%7C+Kotlin+%7C+Firebase;Open-Source+Contributor" alt="Typing Animation" />
 </p>
 
 ---
