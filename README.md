@@ -24,7 +24,6 @@
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=firadfd&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF)
 </div>
-
 <!-- Animated tech stack section -->
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -45,7 +44,6 @@
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   </div>
   <br>
-  
   <!-- Tools -->
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -59,7 +57,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
-
 
 <!-- Contact buttons with hover effects -->
 <h2 align="center">📫 Let's Connect</h2>
