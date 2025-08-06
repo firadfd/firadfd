@@ -26,14 +26,14 @@
 </div>
 
 <div align="center" style="display: flex;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firadfd&theme=transparent" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firadfd&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs" />
 </div>
 
 <div align="center" style="display : flex">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=firadfd&theme=transparent"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firadfd&theme=transparent&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs"/>
 </div>
 
 <!-- Animated tech stack section -->
