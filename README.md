@@ -24,6 +24,18 @@
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=firadfd&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF)
 </div>
+
+<div align="center" style="display: flex;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firadfd&theme=transparent" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firadfd&theme=transparent" />
+</div>
+
+<div align="center" style="display : flex">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=firadfd&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firadfd&theme=transparent&utcOffset=8"/>
+</div>
+
 <!-- Animated tech stack section -->
 <h2 align="center">⚡ Tech Stack</h2>
 
