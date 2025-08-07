@@ -1,18 +1,23 @@
 <!-- Header with animated gradient and 3D effect -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Flutter+Developer;Kotlin+Enthusiast;Jetpack+Compose+Multiplatform" alt="Typing Animation" />
 </p>
 
+
 <!-- Rainbow divider -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Visitor counter with snake animation -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
 </p>
 
 <!-- Profile cards with glow effect -->
+
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
@@ -29,12 +34,14 @@
 
 <div align="center" style="display: flex;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs" />
+  
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs" />
 </div>
 
 <div align="center" style="display : flex">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs"/>
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs"/>
 </div>
 
@@ -66,11 +73,13 @@
   </div>
 </div>
 
+
 <!-- Animated trophy wall -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
+
 
 <!-- Contact buttons with hover effects -->
 <h2 align="center">📫 Let's Connect</h2>
