@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Flutter+Developer;Kotlin+Enthusiast;Jetpack+Compose+Multiplatform" alt="Typing Animation" />
 </p>
 
-
 <!-- Rainbow divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -15,6 +14,7 @@
 </p>
 
 <!-- Profile cards with glow effect -->
+
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
@@ -43,11 +43,13 @@
 </div>
 
 <!-- Animated tech stack section -->
+
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
   
   <!-- Languages -->
+  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -56,6 +58,7 @@
   <br>
   
   <!-- Frameworks -->
+  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -63,6 +66,7 @@
   </div>
   <br>
   <!-- Tools -->
+  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -72,6 +76,7 @@
 
 
 <!-- Animated trophy wall -->
+
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
@@ -79,6 +84,7 @@
 
 
 <!-- Contact buttons with hover effects -->
+
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/firad-fd/">
@@ -93,6 +99,7 @@
 </p>
 
 <!-- Animated footer -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
