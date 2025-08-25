@@ -5,6 +5,7 @@
 </p>
 
 <!-- Rainbow divider -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Visitor counter with snake animation -->
@@ -15,6 +16,7 @@
 </p>
 
 <!-- Profile cards with glow effect -->
+
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
@@ -74,7 +76,6 @@
 
 
 <!-- Animated trophy wall -->
-
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
@@ -82,7 +83,6 @@
 
 
 <!-- Contact buttons with hover effects -->
-
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/firad-fd/">
@@ -97,7 +97,6 @@
 </p>
 
 <!-- Animated footer -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
