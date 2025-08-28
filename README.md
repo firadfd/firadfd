@@ -5,15 +5,18 @@
 </p>
 
 <!-- Rainbow divider -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Visitor counter with snake animation -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
 </p>
 
 <!-- Profile cards with glow effect -->
+
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
@@ -42,11 +45,13 @@
 </div>
 
 <!-- Animated tech stack section -->
+
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
   
   <!-- Languages -->
+  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
