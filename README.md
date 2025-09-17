@@ -42,13 +42,11 @@
 </div>
 
 <!-- Animated tech stack section -->
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
   
   <!-- Languages -->
-  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -66,7 +64,6 @@
   <br>
   
   <!-- Tools -->
-  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -76,7 +73,6 @@
 
 
 <!-- Animated trophy wall -->
-
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
