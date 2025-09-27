@@ -1,28 +1,35 @@
-name: generate snake
+name: Generate Snake
 
 on:
-  schedule: # run automatically every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # allow manual run
+  schedule:
+    - cron: "0 0 * * *" # Run once a day at midnight UTC
+  workflow_dispatch:     # Allow manual runs
+  push:
+    branches:
+      - main # Run on push to main branch
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write # Required for pushing to gh-pages
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3 # Faster for SVG only
         with:
-          github_user_name: firadfd
-          outputs: dist/snake.svg
-
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+          github_user_name: ${{ github.repository_owner }} # Use repo owner (replace with 'firadfd' if needed)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Ensures API access
+        # Note: Outputs default to 'dist/github-contribution-grid-snake.svg' if not specified
+
+      - name: Debug - List Generated Files (Temporary)
+        run: ls -la dist/ || echo "No dist directory found"
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
