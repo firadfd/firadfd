@@ -2,15 +2,20 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # once a day
-  workflow_dispatch:     # allow manual runs
+    - cron: "0 0 * * *" # Run once a day at midnight UTC
+  workflow_dispatch:     # Allow manual runs
+  push:
+    branches:
+      - main # Run on push to main branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required for pushing to gh-pages
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -18,8 +23,8 @@ jobs:
           github_user_name: firadfd
           outputs: dist/snake.svg
 
-      - name: Push Snake to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Use default GITHUB_TOKEN
           publish_dir: ./dist
