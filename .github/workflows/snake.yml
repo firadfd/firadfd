@@ -1,65 +1,25 @@
-name: GitHub Snake Game
-
-
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-
+    - cron: "0 0 * * *" # once a day
+  workflow_dispatch:     # allow manual runs
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-
     steps:
-
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v3
 
-
-      - name: Generate GitHub Contributions Snake Animations
-
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
-
         with:
+          github_user_name: firadfd
+          outputs: dist/snake.svg
 
-          github_user_name: ${{ github.repository_owner }}
-
-
-          outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-
-
-      - name: Deploy to Output Branch
-
+      - name: Push Snake to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-
         with:
-
           github_token: ${{ secrets.GH_TOKEN }}
-
           publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-
-          commit_message: "Update snake animation [skip ci]"
