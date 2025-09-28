@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
 </p>
 
+<div align="center">
+![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/output/github-snake.svg)
+</div>
+
 <!-- Profile cards with glow effect -->
 <div align="center">
   
@@ -97,5 +101,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
-
-![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/output/github-snake.svg)
