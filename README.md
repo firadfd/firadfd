@@ -99,5 +99,6 @@
 </div>
 
 
-![snake gif](https://github.com/firadfd/firadfd/blob/output/snake.svg)
-
+<div align="center">
+  ![snake gif](https://github.com/firadfd/firadfd/blob/output/github-snake.svg))
+</div>
