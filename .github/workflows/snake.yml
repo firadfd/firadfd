@@ -23,7 +23,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate GitHub Contributions Snake Animations
+      # Step 2: Create dist folder (if not created automatically)
+      - name: Create dist folder
+        run: mkdir -p dist
+
+      # Step 3: Generate GitHub Contributions Snake Animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -35,11 +39,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy to Output Branch
+      # Step 4: List contents of dist folder for debugging
+      - name: List dist folder contents
+        run: ls -la dist
+
+      # Step 5: Deploy to Output Branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          # Use GITHUB_TOKEN or fallback to GH_PAT if needed
           github_token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
