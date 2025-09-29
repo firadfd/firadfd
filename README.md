@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
 </p>
 
-![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/main/github-snake-dark.svg)
+![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/main/dist/github-snake-dark.svg)
 
 <!-- Profile cards with glow effect -->
 <div align="center">
