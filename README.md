@@ -15,7 +15,6 @@
 ![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/main/dist/github-snake-dark.svg)
 
 <!-- Profile cards with glow effect -->
-
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
@@ -50,6 +49,7 @@
 
   
   <!-- Languages -->
+  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
@@ -59,7 +59,6 @@
   
   <!-- Frameworks -->
 
-  
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -68,7 +67,7 @@
   <br>
   
   <!-- Tools -->
-  
+
   <div style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
