@@ -1,9 +1,11 @@
 <!-- Header with animated gradient and 3D effect -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Flutter+Developer;Kotlin+Enthusiast;Jetpack+Compose+Multiplatform" alt="Typing Animation" />
 </p>
 
 <!-- Rainbow divider -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Visitor counter with snake animation -->
@@ -15,6 +17,7 @@
 ![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/main/dist/github-snake-dark.svg)
 
 <!-- Profile cards with glow effect -->
+
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
