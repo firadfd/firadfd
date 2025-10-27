@@ -4,7 +4,6 @@
 </p>
 
 <!-- Rainbow divider -->
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- Visitor counter with snake animation -->
@@ -16,7 +15,6 @@
 ![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/main/dist/github-snake-dark.svg)
 
 <!-- Profile cards with glow effect -->
-
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
