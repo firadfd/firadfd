@@ -14,7 +14,6 @@
 
 ![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/main/dist/github-snake-dark.svg)
 
-
 <!-- Profile cards with glow effect -->
 <div align="center">
   
