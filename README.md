@@ -46,7 +46,6 @@
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-
   
   <!-- Languages -->
   <div style="display: inline-block; margin: 10px;">
