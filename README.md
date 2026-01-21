@@ -71,13 +71,11 @@
   </div>
 </div>
 
-
 <!-- Animated trophy wall -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=firadfd&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
-
 
 <!-- Contact buttons with hover effects -->
 <h2 align="center">📫 Let's Connect</h2>
