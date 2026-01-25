@@ -21,7 +21,6 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=firadfd&theme=radical&hide_border=true&background=00000000&ring=8A2BE2&fire=8A2BE2&currStreakNum=FFFFFF)
   
-  
   <div style="display: flex; gap: 10px; justify-content: center; margin-top: 20px;">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=firadfd&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="Stats"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs"/>
