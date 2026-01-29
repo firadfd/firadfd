@@ -70,6 +70,7 @@
   </div>
 </div>
 
+
 <!-- Animated trophy wall -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
@@ -89,6 +90,7 @@
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000">
   </a>
 </p>
+
 
 <!-- Animated footer -->
 <div align="center">
