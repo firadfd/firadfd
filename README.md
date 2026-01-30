@@ -6,7 +6,6 @@
 <!-- Rainbow divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-
 <!-- Visitor counter with snake animation -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
@@ -71,7 +70,6 @@
   </div>
 </div>
 
-
 <!-- Animated trophy wall -->
 <h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
@@ -91,7 +89,6 @@
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000">
   </a>
 </p>
-
 
 <!-- Animated footer -->
 <div align="center">
