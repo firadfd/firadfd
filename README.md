@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Flutter+Developer;Kotlin+Enthusiast;Jetpack+Compose+Multiplatform" alt="Typing Animation" />
 </p>
 
-
-
 <!-- Rainbow divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -29,7 +27,6 @@
   </div>
   
 </div>
-
 
 <div align="center" style="display: flex;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firadfd&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Langs" />
@@ -56,7 +53,6 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   </div>
   <br>
-
 
   
   <!-- Frameworks -->
