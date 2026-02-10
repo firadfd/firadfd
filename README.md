@@ -18,6 +18,8 @@
 ![GitHub Snake Animation](https://github.com/firadfd/firadfd/blob/main/dist/github-snake-dark.svg)
 
 <!-- Profile cards with glow effect -->
+
+
 <div align="center">
   
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firadfd&theme=radical)
