@@ -1,0 +1,28 @@
+# .github/workflows/auto-commit.yml
+
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # runs every day (UTC)
+  workflow_dispatch: # allows manual run
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Activity File
+        run: |
+          echo "Last activity: $(date)" >> activity.log
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "firadfd833@gmail.com"
+          git add activity.log
+          git commit -m "chore: daily activity commit $(date)" || echo "No changes to commit"
+          git push
