@@ -1,11 +1,11 @@
 # .github/workflows/auto-commit.yml
 
-name: Daily Auto Commit
+name: Daily Profile Activity
 
 on:
   schedule:
-    - cron: "0 18 * * *" # runs every day (UTC)
-  workflow_dispatch: # allows manual run
+    - cron: "0 12 * * 6,0,1,2,3,4"
+  workflow_dispatch:
 
 jobs:
   auto-commit:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Update Activity File
         run: |
@@ -24,5 +26,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "firadfd833@gmail.com"
           git add activity.log
-          git commit -m "chore: daily activity commit $(date)" || echo "No changes to commit"
-          git push
+          git commit -m "chore: daily activity commit $(date)" || echo "No changes"
+          git push origin main
